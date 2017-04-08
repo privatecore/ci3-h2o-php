@@ -1,6 +1,6 @@
 ### Introduction ###
 
-H2O template engine for CodeIgniter 3.
+H2O template engine for CodeIgniter 3. This solution based on modified version of H2O v0.3 and Hydrant template class for the Codeigniter 2.
 
 ### H2O template ###
 
@@ -74,4 +74,5 @@ index.html:
 ### Links ###
 
 * https://github.com/bcit-ci/CodeIgniter
+* https://github.com/stickgrinder/hydrant
 * https://github.com/speedmax/h2o-php
