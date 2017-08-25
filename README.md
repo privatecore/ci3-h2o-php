@@ -33,9 +33,6 @@ class Page extends CI_Controller {
 	{
 		parent::__construct();
 
-		// load h2o config
-		$this->load->config('h2o');
-
 		// load h2o library
 		$this->load->library('h2olib');
 	}
